@@ -1,0 +1,9 @@
+# Java
+.classpath
+.project
+.settings
+# build
+target/
+
+# vscode config
+.vscode/

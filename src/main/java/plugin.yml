@@ -1,0 +1,29 @@
+version: 0.1.0
+author: Jules Lefebvre
+
+name: LgUhc
+description: minecraft plugin base on the LG UHG youtube serise
+
+main: org.epigeek.lguhc.Main
+
+commands:
+  helloworld:
+    aliases: [
+      hi
+    ]
+    description: basic debug fonction
+
+  lg-start:
+    description: start lg game
+  
+  lg-init:
+    description: init spawn
+
+  clear:
+    aliases: [
+      cls
+    ]
+    description: clear player chat
+
+  clearServer:
+    description: clear server chat
